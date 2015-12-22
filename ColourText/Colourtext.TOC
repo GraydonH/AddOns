@@ -1,0 +1,7 @@
+## Interface: 60200
+## Title: ColourText
+## Version: 1.0
+## Notes: Colours text with ease.
+## Author: Graydon
+## DefaultState: Enabled
+main.lua
